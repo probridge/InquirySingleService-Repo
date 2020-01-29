@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <service xmlns:ns2="http://www.ibm.com/ims/Transaction">
     <shallow>true</shallow>
-    <serviceName>InquirySingleService_v0.0.2</serviceName>
+    <serviceName>InquirySingleService_v0.0.3</serviceName>
     <serviceType>ims-rest</serviceType>
     <resourceType>TRAN</resourceType>
     <status>1</status>
